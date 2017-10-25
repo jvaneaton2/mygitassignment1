@@ -7,3 +7,4 @@ git enables saving code by saving snapshots of files and compressing them down i
 2. Explain how git enables tracking code.
 git enables tracking code by keeping a log of changes made to a project
 3. Explain how git enables sharing code.
+git enables sharing code by using repositories that are easily transferable
